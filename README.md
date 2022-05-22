@@ -8,8 +8,8 @@
 ```
   git clone https://github.com/Leo18ss/trabalhos206.git
 ```
-- Ao abrir o projeto, no termina use o comando
+- Ao abrir o repositorio do projeto, no terminal use o comando:
 ```
   node_modules/.bin/cypress open
 ```
-E cliquei no arquivo de nome *testeCypress*
+E clique no arquivo de nome *testeCypress*.
